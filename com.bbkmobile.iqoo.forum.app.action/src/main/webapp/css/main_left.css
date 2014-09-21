@@ -1,0 +1,33 @@
+body{background:#FFF url(../images/left_bg.jpg) repeat-x left top; margin:0px; padding:0px;}
+
+
+.main_left{width:182px; float:left; display:inline; overflow:hidden;}
+.main_left_top{width:182px; height:25px; float:left; display:inline;}
+.main_left_top h1{width:90px; float:left; display:inline; background:url(../images/icon_glcd.gif) no-repeat left center; line-height:25px; font-size:12px; font-weight:bold; padding-left:20px; margin-left:10px;}
+.main_left_top h2{width:60px; float:left; display:inline; margin-top:5px;}
+.main_left_top h2 a{width:60px; height:14px; background:url(../images/icon_qbzk.gif) no-repeat center center; float:left; display:inline;}
+.main_left_top h2.qbss a{background:url(../images/icon_qbss.gif) no-repeat center center;}
+.main_left_top h2 a span{display:none;}
+
+.main_left_menu{width:172px; float:left; display:inline; margin-left:5px; margin-top:8px; padding-right:5px; padding-bottom:5px;}
+
+.menu_s{width:168px; float:left; display:inline; border:1px solid #5A7A9E; padding:1px; margin-bottom:2px;}
+.menu_s h1{width:152px; float:left; display:inline; line-height:24px; color:#FFF; padding:0px 8px; background:#5A7A9E url(../images/b_menu_jia.gif) no-repeat 140px 8px; cursor:pointer;}
+.menu_s h1.clicked{font-weight:bold;}
+.menu_s h1.selected{background:#5A7A9E url(../images/b_menu_jian.gif) no-repeat 140px 8px;}
+.menu_s ul,.menu_s li{float:left; display:inline;}
+.menu_s ul{padding:4px 0px; display:none;}
+.menu_s li{width:168px;}
+.menu_s li a,.menu_s li a:hover{line-height:20px; display:block; float:left; width:100%; width:160px; padding:0px 8px 0px 22px; line-height:20px; background:url(../images/left_shousuo.gif) no-repeat 8px 5px;}
+.menu_s li a.selected{color:#B60005; font-weight:bold;}
+.menu_s li a:hover{color:#B60005;}
+.menu_s li ul{padding:0px; display:none;}
+.menu_s li li{}
+.menu_s li li a,.menu_s li li a:hover{color:#7B7B7B; background:url(../images/left_smenu_bg.gif) no-repeat 22px 6px; width:130px; padding:0px 8px 0px 30px; color:#7B7B7B;}
+.menu_s li li a:hover{color:#B60005;}
+.menu_s li h2{line-height:20px; width:138px; padding:0px 8px 0px 22px; float:left; display:inline; background:url(../images/left_zhankai.gif) no-repeat 8px 5px; cursor:pointer;}
+.menu_s li h2.selected{background:url(../images/left_shousuo.gif) no-repeat 8px 5px;}
+.menu_s li h2:hover,.menu_s li h2.over{color:#B60005;}
+.menu_s li h2.bg_on{font-weight:bold;}
+
+

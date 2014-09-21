@@ -1,0 +1,47 @@
+body{margin:0px auto; padding:0px; font-size:12px; font-family:Arial, Helvetica, sans-serif; color:#333; line-height:24px;}
+div,p,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,form,button,iframe,table,th,td,object{margin:0; padding:0;}
+p{margin:0px 0px 10px 0px;}
+a,a:hover{font-size:12px; color:#333; line-height:24px; text-decoration:none; cursor:pointer;}
+a:hover{color:#FF0000; }
+img{border:0;}
+ul,li,form,h1,h2,h3,h4,h5,h6,h7,h8,dl,dt,dd,textarea{margin:0px; padding:0px; list-style:none; font-size:12px; font-weight:normal; line-height:24px;}
+.clear_div{clear:both;}
+.no_display{display:none;}
+ol,ul{list-style:none;}:focus{outline:0;}a img{border:0;}img{vertical-align:middle;}
+button{cursor: pointer;}
+a:focus{outline: none;}
+.float_left{float:left;}
+.float_right{float:right;}
+
+.top{width:100%; height:57px; background:url(../images/top_bg.jpg) repeat-x left top; float:left; display:inline;}
+.top_logo{width:310px; float:left; display:inline; margin-top:11px; margin-left:6px;}
+.top_logo img{float:left; display:inline;}
+.top_link{float:right; display:inline; margin-top:12px;}
+.top_link ul,.top_link li{float:left; display:inline;}
+.top_link li{margin-right:5px; margin-top:5px;}
+.top_link li.name{margin-right:10px;}
+.top_link li.name strong{color:#F00;}
+.top_link li a{line-height:24px; display:block; padding:0px 5px 0px 20px;}
+.top_link li a:hover{line-height:24px;}
+
+.top_link li a.back{background:url(../images/set.gif) no-repeat left center;}
+.top_link li a.quit{background:url(../images/logout.gif) no-repeat left center;}
+
+
+
+
+.main{width:100%; background:#ccc;}
+
+.maintab{width:100%; height:100%; }
+.accordionbar{background:url(../images/mid_bg.gif) repeat-y left top;}
+.accordion a {width:6px; height:23px; display:block; margin:200px 2px 0px 2px; cursor:pointer; outline:none; text-indent:-1000px; cursor:pointer;}
+.accordion a.open{background:url(../images/btn_left.gif) no-repeat;}
+.accordion a.close{background:url(../images/btn_right.gif) no-repeat;}
+
+.out{padding:0px 10px;}
+.beizhu{color:#999;}
+
+
+
+
+

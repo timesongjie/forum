@@ -1,0 +1,2 @@
+终端和web的dao和service层
+hibernate 或 mybatis
